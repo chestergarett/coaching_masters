@@ -1,0 +1,1 @@
+INPUT_PATH = r'inputs'
